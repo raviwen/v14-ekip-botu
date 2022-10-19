@@ -2,7 +2,7 @@
 
 # Botumuzun kurulumu tamamen komutlarla yapılmaktadır.
 
- https://prnt.sc/DidV86ksYAy8
+ ![image](https://user-images.githubusercontent.com/71249068/196808631-1193d32e-8c1b-4d94-9765-f8e392e2e459.png)
 
 
    <div align="center">
