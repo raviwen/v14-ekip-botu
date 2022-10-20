@@ -1,5 +1,9 @@
 # Paylaşım değil , sunucusuna bot yaptırmak isteyenler için tanıtıyorum.
 
+```bash
+İsteğe göre ekip veya public olarak yapılabilir. Ulaşmak için Raviwen#0103
+```
+
 # Botumuzun kurulumu tamamen komutlarla yapılmaktadır.
 
  ![image](https://user-images.githubusercontent.com/71249068/196831034-6961e73d-da3d-43b8-abd6-fd565226d378.png)
