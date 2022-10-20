@@ -2,7 +2,7 @@
 
 # Botumuzun kurulumu tamamen komutlarla yapılmaktadır.
 
- ![image](https://user-images.githubusercontent.com/71249068/196808631-1193d32e-8c1b-4d94-9765-f8e392e2e459.png)
+ ![image](https://user-images.githubusercontent.com/71249068/196831034-6961e73d-da3d-43b8-abd6-fd565226d378.png)
 
 ![image](https://user-images.githubusercontent.com/71249068/196818596-2c35dff8-1a4f-499d-9393-a606cf9c4f19.png)
 
