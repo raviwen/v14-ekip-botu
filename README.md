@@ -8,7 +8,8 @@
 
 ![image](https://user-images.githubusercontent.com/71249068/196818227-7c45c3d9-eb69-4362-9960-02f26fc45938.png)
 
-
+# Sekme Koruması
+![image](https://user-images.githubusercontent.com/71249068/196830899-a0b8ae41-c1c8-4932-aa0c-61dbf1d125ec.png)
 
 
    <div align="center">
