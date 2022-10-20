@@ -2,6 +2,13 @@
 
 ```bash
 İsteğe göre ekip veya public olarak yapılabilir. Ulaşmak için Raviwen#0103
+- Botun içeriği;
+  + Moderasyon
+  + Stat
+  + Invite
+  + Logger
+  + Database
+  + Guard
 ```
 
 # Botumuzun kurulumu tamamen komutlarla yapılmaktadır.
