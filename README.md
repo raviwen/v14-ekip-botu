@@ -1,7 +1,6 @@
 # Paylaşım değil , sunucusuna bot yaptırmak isteyenler için tanıtıyorum.
-![Discord](https://discord.gg/HW4eUEfeEA) Bot yaptırmak için sunucumuza gelebilirsin.
 ```bash
-İsteğe göre ekip veya public olarak yapılabilir. Ulaşmak için Raviwen#0103
+İsteğe göre ekip veya public olarak yapılabilir. Ulaşmak için Raviwen#0103 veya https://discord.gg/HW4eUEfeEA
 - Botun içeriği;
   + Moderasyon
   + Stat
